@@ -1,0 +1,24 @@
+<style> {
+  background-image: url("torg.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.parallax {
+    background-image: url("#");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+    height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+</style>
+
+<!-- Container element -->
+<div class="parallax"></div>
+</body>
