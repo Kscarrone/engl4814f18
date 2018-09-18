@@ -83,7 +83,7 @@ Oversee the correspondence and club meetings of 100+ memebers; plus campus outre
 h1 {
   font-family: Palatino;
   text-align: center;
-  margin-top: 50px;
+  margin-top: 30px;
   margin-bottom: 50px;
   font-size: 40px;
   text-attachment:fixed;
@@ -94,7 +94,7 @@ h1 {
 h2 {
   font-family: Palatino;
   text-align: center;
-  margin-top: 50px;
+  margin-top: 30px;
   margin-bottom: 50px;
   font-size: 40px;
   text-attachment:fixed;
@@ -104,7 +104,7 @@ h2 {
 h3 {
   font-family: Palatino;
   text-align: center;
-  margin-top: 50px;
+  margin-top: 30px;
   margin-bottom: 50px;
   font-size: 40px;
   text-attachment:fixed;
@@ -112,13 +112,4 @@ h3 {
 }
 
 
-h4 {
-  font-family: Palatino;
-  text-align: center;
-  margin-top: 200px;
-  margin-bottom: 500px;
-  font-size: 40px;
-  text-attachment:fixed;
-  color:black;
-}
 </style>
